@@ -165,10 +165,10 @@ button {
 /* Edit Task */
 .task-input,
 .edit-mode .task-text {
-  display: none
+  display: none;
 }
 
 .edit-mode .task-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
